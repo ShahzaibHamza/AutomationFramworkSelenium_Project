@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\testexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\testexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\productspage\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\productspage\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\cart\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\cart\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\checkout page\\userinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\checkout page\\userinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\ordercompletion\\ordercompletionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\ordercompletion\\ordercompletionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\productspage\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\productspage\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\testexecution2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\testexecution2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\webapp\\loginpage\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\webapp\\loginpage\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\corepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\corepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|c:\\users\\shahz\\source\\repos\\software_testing_project_automation_framework\\software_testing_project_automation_framework\\software_testing_project_automation_framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83250882-D080-4A73-A8B0-01313CD47ADA}|Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj|solutionrelative:software_testing_project_automation_framework\\software_testing_project_automation_framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Debug\\net8.0\\Software_Testing_project_automation_framework.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Software_Testing_project_automation_framework\\obj\\Debug\\net8.0\\Software_Testing_project_automation_framework.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\Checkout Page\\UserInfoForm.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\Checkout Page\\UserInfoForm.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\Checkout Page\\UserInfoForm.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\Checkout Page\\UserInfoForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:11:35.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "testExecution2.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\testExecution2.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\testExecution2.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\testExecution2.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\testExecution2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:11:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testExecution.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\testExecution.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\testExecution.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\testExecution.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\testExecution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:41:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\ProductsPage.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\ProductsPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:10:36.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToCart.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\AddToCart.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\AddToCart.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\AddToCart.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\ProductsPage\\AddToCart.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:10:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\Cart\\Checkout.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\Cart\\Checkout.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\Cart\\Checkout.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\Cart\\Checkout.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:10:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\loginPage\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\loginPage\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\loginPage\\LoginPage.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\loginPage\\LoginPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:10:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderCompletionPage.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\OrderCompletion\\OrderCompletionPage.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\WebApp\\OrderCompletion\\OrderCompletionPage.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\WebApp\\OrderCompletion\\OrderCompletionPage.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\WebApp\\OrderCompletion\\OrderCompletionPage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:25:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CorePage.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\CorePage.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\CorePage.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\CorePage.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\CorePage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:56:20.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:43:54.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Software_Testing_project_automation_framework.csproj",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T07:36:18.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\obj\\Release\\net8.0\\SoftwareTestingProject_AutomationFramework.AssemblyInfo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:44:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Software_Testing_project_automation_framework.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Debug\\net8.0\\Software_Testing_project_automation_framework.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Software_Testing_project_automation_framework\\obj\\Debug\\net8.0\\Software_Testing_project_automation_framework.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\shahz\\source\\repos\\Software_Testing_project_automation_framework\\Software_Testing_project_automation_framework\\obj\\Debug\\net8.0\\Software_Testing_project_automation_framework.AssemblyInfo.cs",
+              "RelativeToolTip": "Software_Testing_project_automation_framework\\obj\\Debug\\net8.0\\Software_Testing_project_automation_framework.AssemblyInfo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:43:16.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAANcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-25T07:42:54.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
